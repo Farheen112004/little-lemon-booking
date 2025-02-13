@@ -185,3 +185,5 @@ python manage.py migrate
 python manage.py runserver
 
 Navigate to the Book page and Reservations page and perform the form actions required to grade the assessment where required. 
+
+made with ❤️ by Farheen
